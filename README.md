@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g4.12pre-406-g3f72f8acd`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.12pre-406-g3f72f8acd/gzdoom-g4.12pre-406-g3f72f8acd.zip)|`c485364de0421bda11af2f288e3d38e511e3fc91a5da0cb710e0c575cc9a2912`|
 |[`g4.12pre-392-g7fbb4cd06`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.12pre-392-g7fbb4cd06/gzdoom-g4.12pre-392-g7fbb4cd06.zip)|`bb44289d702e09dc0f31541f238678ba81438f00ce2e9edc1b4b885e523c074e`|
 |[`g4.12pre-378-gf369cd7f6`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.12pre-378-gf369cd7f6/gzdoom-g4.12pre-378-gf369cd7f6.zip)|`d752e755572cd354da41d9a2ede074979f0c80f3675af314208f290638f93c90`|
 |[`g4.12pre-362-g1c7f19535`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g4.12pre-362-g1c7f19535/gzdoom-g4.12pre-362-g1c7f19535.zip)|`a9761b06effe87f440afb46cf34bcee381ddc8b4ad3f5943b01070f420344e58`|
